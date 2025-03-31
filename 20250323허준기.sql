@@ -4,5 +4,5 @@ CREAT TABLE Address(
  Address3 varchar(255),
  Postal_Code varchar(255),
  Client_ID varchar(255);
-insert into address values('¾È¾ß½Ã','µ¿¾È±¸','ÇĞÀÇ·Î','12345','ÀÌ¸§');
- drop table address;//Å×ÀÌºí»èÁ¦
+insert into address values('ì•ˆì•¼ì‹œ','ë™ì•ˆêµ¬','í•™ì˜ë¡œ','12345','ì´ë¦„');
+ drop table address;//í…Œì´ë¸”ì‚­ì œ
